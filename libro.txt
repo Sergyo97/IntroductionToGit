@@ -1,9 +1,9 @@
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES: Sergio
-	 Italo 
-	 David 
-	 Nicolas
+AUTORES: Sergio Hernando Ruiz Paez
+	 Italo Orlando Cufiño Novoa
+	 David Antonio Diaz Duarte
+	 Nicolas Cárdenas Chaparro
 
 
 
